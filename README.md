@@ -6,10 +6,10 @@ The goal is to make data exploration simple, interactive, and insightful — whe
 
 📊 Currently Included
 
-E-commerce Sales Dashboard
+1. E-commerce Sales Dashboard
 A dynamic dashboard designed to monitor online sales performance, customer behavior, and top-selling products.
 It includes interactive charts, slicers, and KPIs to make understanding sales trends effortless.
-https://github.com/Shivam-DataAnalytics/PowerBI-Dashboards/tree/main/ECOMMERCE%20SALES%20DASHBOARD
+[Ecommerce Sales Dashboard](https://github.com/Shivam-DataAnalytics/PowerBI-Dashboards/tree/main/ECOMMERCE%20SALES%20DASHBOARD)
 
 🛠 Tools and Techniques Used
 

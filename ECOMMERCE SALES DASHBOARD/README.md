@@ -1,5 +1,7 @@
 🛒 E-commerce Sales Dashboard
+
 Welcome!
+
 This Was My First PowerBI Dashboard.
 This project presents a fully interactive E-commerce Sales Dashboard created with Microsoft Power BI. It enables businesses to easily track, explore, and analyze their online sales data through dynamic visualizations and user-driven insights.
 
@@ -13,14 +15,15 @@ Created data model connections, joined new tables, and used DAX formulas to mani
 Used user-driven parameters for enhanced interactivity.
 
 📷 Dashboard Preview
-https://github.com/Shivam-DataAnalytics/PowerBI-Dashboards/blob/main/ECOMMERCE%20SALES%20DASHBOARD/ecommerce_sales-dashboard.png
+[View Dashboard](https://github.com/Shivam-DataAnalytics/PowerBI-Dashboards/blob/main/ECOMMERCE%20SALES%20DASHBOARD/ecommerce_sales-dashboard.png)
+
 
 🖼️ Background Image Used
 The dashboard design includes a customized background image for a more polished, professional look.
-https://github.com/Shivam-DataAnalytics/PowerBI-Dashboards/blob/main/ECOMMERCE%20SALES%20DASHBOARD/dark-gradient.jpg
+![View Background](https://github.com/Shivam-DataAnalytics/PowerBI-Dashboards/blob/main/ECOMMERCE%20SALES%20DASHBOARD/dark-gradient.jpg)
 
  🛒PowerBI Dashboard For Ecommerce Sales Dashboard
-PowerBI = https://github.com/Shivam-DataAnalytics/PowerBI-Dashboards/blob/main/ECOMMERCE%20SALES%20DASHBOARD/ECOMMERCE%20SALES.pbix
+[View Dashboard](https://github.com/Shivam-DataAnalytics/PowerBI-Dashboards/blob/main/ECOMMERCE%20SALES%20DASHBOARD/ECOMMERCE%20SALES.pbix)
 
 📊 Visualizations Included
 Bar Chart
@@ -32,9 +35,9 @@ Donut Chart
 Slicers and Filters
 
 📂 Dataset Source
-Detais = https://github.com/Shivam-DataAnalytics/PowerBI-Dashboards/blob/main/ECOMMERCE%20SALES%20DASHBOARD/Details.csv
+[Detais](https://github.com/Shivam-DataAnalytics/PowerBI-Dashboards/blob/main/ECOMMERCE%20SALES%20DASHBOARD/Details.csv)
 
-Orders = https://github.com/Shivam-DataAnalytics/PowerBI-Dashboards/blob/main/ECOMMERCE%20SALES%20DASHBOARD/Orders.csv
+[Orders](https://github.com/Shivam-DataAnalytics/PowerBI-Dashboards/blob/main/ECOMMERCE%20SALES%20DASHBOARD/Orders.csv)
 
 🛠 Tools and Technologies Used
 Microsoft Power BI Desktop
