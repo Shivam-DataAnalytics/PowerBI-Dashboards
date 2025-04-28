@@ -15,7 +15,7 @@ Created data model connections, joined new tables, and used DAX formulas to mani
 Used user-driven parameters for enhanced interactivity.
 
 📷 Dashboard Preview
-[View Dashboard](https://github.com/Shivam-DataAnalytics/PowerBI-Dashboards/blob/main/ECOMMERCE%20SALES%20DASHBOARD/ecommerce_sales-dashboard.png)
+![View Dashboard](https://github.com/Shivam-DataAnalytics/PowerBI-Dashboards/blob/main/ECOMMERCE%20SALES%20DASHBOARD/ecommerce_sales-dashboard.png)
 
 
 🖼️ Background Image Used
@@ -35,6 +35,7 @@ Donut Chart
 Slicers and Filters
 
 📂 Dataset Source
+
 [Detais](https://github.com/Shivam-DataAnalytics/PowerBI-Dashboards/blob/main/ECOMMERCE%20SALES%20DASHBOARD/Details.csv)
 
 [Orders](https://github.com/Shivam-DataAnalytics/PowerBI-Dashboards/blob/main/ECOMMERCE%20SALES%20DASHBOARD/Orders.csv)
